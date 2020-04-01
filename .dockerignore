@@ -1,0 +1,10 @@
+.env.example
+.overcommit.yml
+.rerun
+.rubocop.yml
+docker-compose.yml
+Dockerfile
+.git
+.gitignore
+.dockerignore
+config/database.yml.example.yml

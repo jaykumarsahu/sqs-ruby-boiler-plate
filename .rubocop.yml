@@ -1,0 +1,18 @@
+AllCops:
+  TargetRubyVersion: 2.7.0
+  DisplayCopNames: true
+
+Layout/LineLength:
+  Max: 120
+
+Style/Documentation:
+  Enabled: false
+
+Style/HashEachMethods:
+  Enabled: true
+
+Style/HashTransformKeys:
+  Enabled: true
+
+Style/HashTransformValues:
+  Enabled: true
